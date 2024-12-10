@@ -1,0 +1,12 @@
+# Ignore Python virtual environment
+env/
+
+# Ignore Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore temporary or log files
+*.log
+*.tmp
+
+# Ignore datasets if not to be pushed
+data/*.csv
