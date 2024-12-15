@@ -7,17 +7,17 @@ Overview
 Music is a vital part of human culture, shaping identities and enabling innovation in various interactive applications such as music recommendation systems, playlist generation, and audio analysis. This project aims to classify music tracks into one of 11 genres using audio features. The dataset was sourced from Kaggle and Machine Hack.
 
 Key Features
-	•Comprehensive Exploratory Data Analysis: Visualizations to uncover trends, correlations, and challenges such as data imbalance and missing values.
-	•Preprocessing Pipeline: Handles missing values, scales features, and ensures balanced splits for training and testing.
-	•Implementation of six Machine Learning Models:
-		•Logistic Regression (L2 and ElasticNet)
-		•Random Forest
-		•Support Vector Classifier (SVC)
-		•XGBoost
-		•K-Nearest Neighbors
-	•Evaluation Metrics:
-		•Log Loss as the primary metric, capturing model confidence across class probabilities.
-		•Macro F1 as a side reference for class imbalance evaluation.
+	•	Comprehensive Exploratory Data Analysis: Visualizations to uncover trends, correlations, and challenges such as data imbalance and missing values.
+	•	Preprocessing Pipeline: Handles missing values, scales features, and ensures balanced splits for training and testing.
+	•	Implementation of six Machine Learning Models:
+		•	Logistic Regression (L2 and ElasticNet)
+		•	Random Forest
+		•	Support Vector Classifier (SVC)
+		•	XGBoost
+		•	K-Nearest Neighbors
+	•	Evaluation Metrics:
+		•	Log Loss as the primary metric, capturing model confidence across class probabilities.
+		•	Macro F1 as a side reference for class imbalance evaluation.
 
 Repository Structure
 .
